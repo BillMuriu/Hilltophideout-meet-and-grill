@@ -5,9 +5,9 @@ import MenuItem from './Menuitem/MenuItem';
 import Navbar from './Navbar/Navbar';
 
 export {
-	  SubHeading,
-	  Newsletter,
-	  FooterOverlay,
-	  MenuItem,
-	  Navbar,
+  SubHeading,
+  Newsletter,
+  FooterOverlay,
+  MenuItem,
+  Navbar,
 };
